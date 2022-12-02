@@ -12,6 +12,8 @@ Clone the repo by using the following:
 
   cd code-challenge
 (Optional) Open it in Visual Studio Code
+## Technology used
+In this only js script was used.
 
 ## Development Installation
 one has to have a visual studio code to run this test.
@@ -39,6 +41,8 @@ This application is created to maintain a record of vehicles speed and its demer
 ## Authors
 This project was contributed to by:
 
-Elvis Rono
+- Elvis Rono
 License
 The project is licensed under Apache 2.0.
+# contact info
+elvisrono90@gmail.com
