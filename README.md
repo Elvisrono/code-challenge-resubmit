@@ -5,10 +5,10 @@ Open a terminal / command line interface on your computer
 
 Clone the repo by using the following:
 
-  git clone https://github.com/kericho/code-challenge-resubmit.git
-Be patient as it creates a copy on your local machine for you.
+- git clone https://github.com/kericho/code-challenge-resubmit.git
+- Be patient as it creates a copy on your local machine for you.
 
-Change directory to the repo folder:
+- Change directory to the repo folder:
 
   cd code-challenge
 (Optional) Open it in Visual Studio Code
@@ -19,11 +19,11 @@ To get the code..
 
 - Cloning the repository:
 - https://github.com/kericho/code-challenge-resubmit.git
-- Move to the folder and install requirements
-- cd rebu
-
-
-## Install required dependencies from npm
+- Move to the folder you need your files to be stored.
+- Install the node in order for you to run the tests.
+## Tests
+- Use node index.js to run the test.
+- Once you have run the test you will be required to enter the values or figures for example in paye calculator the amount of gross salary and it will eventually display the result.
 
 ## code-challenge grading system
 This application is created to maintain a record of student database. Once entered a record cannot be deleted or modified. The Teachear can get list of all students or a particular student grades. It mainly uses else if statements to determine the students grade.
