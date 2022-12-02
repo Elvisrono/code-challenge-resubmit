@@ -1,0 +1,19 @@
+{
+  "name": "code-challenge-resubmit",
+  "version": "1.0.0",
+  "description": "code challenge-tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kericho/code-challenge-resubmit.git"
+  },
+  "author": "Elvis Rono",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kericho/code-challenge-resubmit/issues"
+  },
+  "homepage": "https://github.com/kericho/code-challenge-resubmit#readme"
+}
